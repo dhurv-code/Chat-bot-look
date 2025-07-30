@@ -1,0 +1,9 @@
+This is a basic chatbot built using only HTML, CSS, and JavaScript, with no backend or external APIs involved.
+
+This bot contains two feild one is for human side and other one is for robot side like other ai chatbot.
+
+It's just practice of html,css,and javascript.
+
+It will have different different features like message will sent to server by clicking to the enter, uploading the images, replying by the bot after 0.5-1 sec duration.
+
+This will run as webapp.
